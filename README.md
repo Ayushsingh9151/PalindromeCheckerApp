@@ -32,3 +32,6 @@ Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC10-No
 
 ## UC11 - Object Oriented Palindrome Service
 Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC11-OOPPalindromeService
+
+## UC12 - Strategy Pattern Palindrome Algorithm
+Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC12-StrategyPalindrome
