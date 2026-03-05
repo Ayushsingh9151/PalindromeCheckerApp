@@ -35,3 +35,6 @@ Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC11-OO
 
 ## UC12 - Strategy Pattern Palindrome Algorithm
 Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC12-StrategyPalindrome
+
+## UC13 - Palindrome Algorithm Performance Comparison
+Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC13-PerformanceComparison
