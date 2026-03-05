@@ -23,3 +23,6 @@ Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC7-Deq
 
 ## UC8 - LinkedList Based Palindrome Checker
 Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC8-LinkedListPalindrome
+
+## UC9 - Recursive Palindrome Checker
+Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC9-RecursivePalindrome
