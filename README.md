@@ -11,3 +11,6 @@ Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC3-Rev
 
 ## UC4 - Character Array Palindrome Check
 Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC4-CharArrayPalindrome
+
+## UC5 - Stack Based Palindrome Checker
+Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC5-StackPalindrome
