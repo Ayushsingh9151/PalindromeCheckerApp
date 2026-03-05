@@ -29,3 +29,6 @@ Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC9-Rec
 
 ## UC10 - Case Insensitive & Space Ignored Palindrome
 Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC10-NormalizedPalindrome
+
+## UC11 - Object Oriented Palindrome Service
+Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC11-OOPPalindromeService
