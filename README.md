@@ -26,3 +26,6 @@ Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC8-Lin
 
 ## UC9 - Recursive Palindrome Checker
 Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC9-RecursivePalindrome
+
+## UC10 - Case Insensitive & Space Ignored Palindrome
+Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC10-NormalizedPalindrome
