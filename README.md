@@ -17,3 +17,6 @@ Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC5-Sta
 
 ## UC6 - Queue + Stack Palindrome Check
 Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC6-QueueStackPalindrome
+
+## UC7 - Deque Based Palindrome Checker
+Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC7-DequePalindrome
