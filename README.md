@@ -20,3 +20,6 @@ Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC6-Que
 
 ## UC7 - Deque Based Palindrome Checker
 Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC7-DequePalindrome
+
+## UC8 - LinkedList Based Palindrome Checker
+Branch Link: https://github.com/Ayushsingh9151/PalindromeCheckerApp/tree/UC8-LinkedListPalindrome
